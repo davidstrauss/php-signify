@@ -16,6 +16,8 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
+// Port of: http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/signify/signify.c?rev=1.132&content-type=text/x-cvsweb-markup
+
 namespace signify;
 
 define('S_IFMT',  0170000);
